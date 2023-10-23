@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-24T18:25:20.985123400Z</date>
+  <millis>1682360720985</millis>
+  <nanos>123400</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.025121100Z</date>
+  <millis>1682360721025</millis>
+  <nanos>121100</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.744005700Z</date>
+  <millis>1682360721744</millis>
+  <nanos>5700</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.750010900Z</date>
+  <millis>1682360721750</millis>
+  <nanos>10900</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.776022100Z</date>
+  <millis>1682360721776</millis>
+  <nanos>22100</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.787013400Z</date>
+  <millis>1682360721787</millis>
+  <nanos>13400</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.918054Z</date>
+  <millis>1682360721918</millis>
+  <nanos>54000</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-04-24T18:25:21.918054Z</date>
+  <millis>1682360721918</millis>
+  <nanos>54000</nanos>
+  <sequence>7</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-08T14:49:32.842880400Z</date>
+  <millis>1683557372842</millis>
+  <nanos>880400</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:32.931432800Z</date>
+  <millis>1683557372931</millis>
+  <nanos>432800</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:33.803453900Z</date>
+  <millis>1683557373803</millis>
+  <nanos>453900</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:33.833988Z</date>
+  <millis>1683557373833</millis>
+  <nanos>988000</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:33.862979900Z</date>
+  <millis>1683557373862</millis>
+  <nanos>979900</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:33.884992200Z</date>
+  <millis>1683557373884</millis>
+  <nanos>992200</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.031201400Z</date>
+  <millis>1683557374031</millis>
+  <nanos>201400</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.041202900Z</date>
+  <millis>1683557374041</millis>
+  <nanos>202900</nanos>
+  <sequence>7</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.046201900Z</date>
+  <millis>1683557374046</millis>
+  <nanos>201900</nanos>
+  <sequence>8</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>SEVERE</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling failed</message>
+  <exception>
+    <message>jakarta.xml.bind.JAXBException: Implementation of Jakarta XML Binding-API has not been found on module path or classpath.
+ - with linked exception:
+[java.lang.ClassNotFoundException: org.glassfish.jaxb.runtime.v2.ContextFactory]</message>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>252</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>newInstance</method>
+      <line>240</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.ContextFinder</class>
+      <method>find</method>
+      <line>381</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>605</line>
+    </frame>
+    <frame>
+      <class>jakarta.xml.bind.JAXBContext</class>
+      <method>newInstance</method>
+      <line>546</line>
+    </frame>
+    <frame>
+      <class>util.XmlWriter</class>
+      <method>generateXmlReq</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>Main</class>
+      <method>main</method>
+      <line>54</line>
+    </frame>
+  </exception>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.052203600Z</date>
+  <millis>1683557374052</millis>
+  <nanos>203600</nanos>
+  <sequence>9</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.053203500Z</date>
+  <millis>1683557374053</millis>
+  <nanos>203500</nanos>
+  <sequence>10</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.097206600Z</date>
+  <millis>1683557374097</millis>
+  <nanos>206600</nanos>
+  <sequence>11</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-05-08T14:49:34.098202900Z</date>
+  <millis>1683557374098</millis>
+  <nanos>202900</nanos>
+  <sequence>12</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-08T15:05:23.975335100Z</date>
+  <millis>1683558323975</millis>
+  <nanos>335100</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:24.022856400Z</date>
+  <millis>1683558324022</millis>
+  <nanos>856400</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:24.899458500Z</date>
+  <millis>1683558324899</millis>
+  <nanos>458500</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:24.925998300Z</date>
+  <millis>1683558324925</millis>
+  <nanos>998300</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:24.954983700Z</date>
+  <millis>1683558324954</millis>
+  <nanos>983700</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:24.974994700Z</date>
+  <millis>1683558324974</millis>
+  <nanos>994700</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.127000300Z</date>
+  <millis>1683558325127</millis>
+  <nanos>300</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.137002200Z</date>
+  <millis>1683558325137</millis>
+  <nanos>2200</nanos>
+  <sequence>7</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.280324800Z</date>
+  <millis>1683558325280</millis>
+  <nanos>324800</nanos>
+  <sequence>8</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.289332Z</date>
+  <millis>1683558325289</millis>
+  <nanos>332000</nanos>
+  <sequence>9</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.293335700Z</date>
+  <millis>1683558325293</millis>
+  <nanos>335700</nanos>
+  <sequence>10</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.334472400Z</date>
+  <millis>1683558325334</millis>
+  <nanos>472400</nanos>
+  <sequence>11</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:05:25.334472400Z</date>
+  <millis>1683558325334</millis>
+  <nanos>472400</nanos>
+  <sequence>12</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-08T15:09:02.297134900Z</date>
+  <millis>1683558542297</millis>
+  <nanos>134900</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:02.339125400Z</date>
+  <millis>1683558542339</millis>
+  <nanos>125400</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.155380600Z</date>
+  <millis>1683558543155</millis>
+  <nanos>380600</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.179400900Z</date>
+  <millis>1683558543179</millis>
+  <nanos>400900</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.216434400Z</date>
+  <millis>1683558543216</millis>
+  <nanos>434400</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.236426600Z</date>
+  <millis>1683558543236</millis>
+  <nanos>426600</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.389502200Z</date>
+  <millis>1683558543389</millis>
+  <nanos>502200</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.400495700Z</date>
+  <millis>1683558543400</millis>
+  <nanos>495700</nanos>
+  <sequence>7</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.535061800Z</date>
+  <millis>1683558543535</millis>
+  <nanos>61800</nanos>
+  <sequence>8</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.545050500Z</date>
+  <millis>1683558543545</millis>
+  <nanos>50500</nanos>
+  <sequence>9</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.550063Z</date>
+  <millis>1683558543550</millis>
+  <nanos>63000</nanos>
+  <sequence>10</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.551053Z</date>
+  <millis>1683558543551</millis>
+  <nanos>53000</nanos>
+  <sequence>11</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>Directory created successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.591779900Z</date>
+  <millis>1683558543591</millis>
+  <nanos>779900</nanos>
+  <sequence>12</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-05-08T15:09:03.592794700Z</date>
+  <millis>1683558543592</millis>
+  <nanos>794700</nanos>
+  <sequence>13</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-23T14:54:36.912398700Z</date>
+  <millis>1698072876912</millis>
+  <nanos>398700</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:37.054397900Z</date>
+  <millis>1698072877054</millis>
+  <nanos>397900</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:39.889398700Z</date>
+  <millis>1698072879889</millis>
+  <nanos>398700</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:39.993401500Z</date>
+  <millis>1698072879993</millis>
+  <nanos>401500</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:40.238400600Z</date>
+  <millis>1698072880238</millis>
+  <nanos>400600</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:40.264399200Z</date>
+  <millis>1698072880264</millis>
+  <nanos>399200</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:40.720399600Z</date>
+  <millis>1698072880720</millis>
+  <nanos>399600</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:40.725398900Z</date>
+  <millis>1698072880725</millis>
+  <nanos>398900</nanos>
+  <sequence>7</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:41.434398700Z</date>
+  <millis>1698072881434</millis>
+  <nanos>398700</nanos>
+  <sequence>8</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:41.440400600Z</date>
+  <millis>1698072881440</millis>
+  <nanos>400600</nanos>
+  <sequence>9</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:41.585400200Z</date>
+  <millis>1698072881585</millis>
+  <nanos>400200</nanos>
+  <sequence>10</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-10-23T14:54:41.586401Z</date>
+  <millis>1698072881586</millis>
+  <nanos>401000</nanos>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-23T14:57:36.617272100Z</date>
+  <millis>1698073056617</millis>
+  <nanos>272100</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:36.807272200Z</date>
+  <millis>1698073056807</millis>
+  <nanos>272200</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:39.855271100Z</date>
+  <millis>1698073059855</millis>
+  <nanos>271100</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:39.872271600Z</date>
+  <millis>1698073059872</millis>
+  <nanos>271600</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.001270400Z</date>
+  <millis>1698073060001</millis>
+  <nanos>270400</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.015272Z</date>
+  <millis>1698073060015</millis>
+  <nanos>272000</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.385271400Z</date>
+  <millis>1698073060385</millis>
+  <nanos>271400</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.389272600Z</date>
+  <millis>1698073060389</millis>
+  <nanos>272600</nanos>
+  <sequence>7</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.781271700Z</date>
+  <millis>1698073060781</millis>
+  <nanos>271700</nanos>
+  <sequence>8</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.783271600Z</date>
+  <millis>1698073060783</millis>
+  <nanos>271600</nanos>
+  <sequence>9</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.915273200Z</date>
+  <millis>1698073060915</millis>
+  <nanos>273200</nanos>
+  <sequence>10</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-10-23T14:57:40.916273300Z</date>
+  <millis>1698073060916</millis>
+  <nanos>273300</nanos>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-10-23T15:07:07.984571400Z</date>
+  <millis>1698073627984</millis>
+  <nanos>571400</nanos>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application started</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:08.088571100Z</date>
+  <millis>1698073628088</millis>
+  <nanos>571100</nanos>
+  <sequence>1</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>Start reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:10.844573200Z</date>
+  <millis>1698073630844</millis>
+  <nanos>573200</nanos>
+  <sequence>2</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readUniversities</method>
+  <thread>1</thread>
+  <message>End of reading sheet Universities from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:10.862572700Z</date>
+  <millis>1698073630862</millis>
+  <nanos>572700</nanos>
+  <sequence>3</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>Start reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:10.988570800Z</date>
+  <millis>1698073630988</millis>
+  <nanos>570800</nanos>
+  <sequence>4</sequence>
+  <logger>excel.XlsReader</logger>
+  <level>INFO</level>
+  <class>excel.XlsReader</class>
+  <method>readStudents</method>
+  <thread>1</thread>
+  <message>End of reading sheet Students from Excel</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:11.003575Z</date>
+  <millis>1698073631003</millis>
+  <nanos>575000</nanos>
+  <sequence>5</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing started</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:11.378573100Z</date>
+  <millis>1698073631378</millis>
+  <nanos>573100</nanos>
+  <sequence>6</sequence>
+  <logger>excel.XlsWriter</logger>
+  <level>INFO</level>
+  <class>excel.XlsWriter</class>
+  <method>writeXlsStatistics</method>
+  <thread>1</thread>
+  <message>Excel writing finished</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:11.383572100Z</date>
+  <millis>1698073631383</millis>
+  <nanos>572100</nanos>
+  <sequence>7</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling started</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:11.792574600Z</date>
+  <millis>1698073631792</millis>
+  <nanos>574600</nanos>
+  <sequence>8</sequence>
+  <logger>util.XmlWriter</logger>
+  <level>INFO</level>
+  <class>util.XmlWriter</class>
+  <method>generateXmlReq</method>
+  <thread>1</thread>
+  <message>XML marshalling finished successfully</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:11.795573100Z</date>
+  <millis>1698073631795</millis>
+  <nanos>573100</nanos>
+  <sequence>9</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing started</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:12.004573400Z</date>
+  <millis>1698073632004</millis>
+  <nanos>573400</nanos>
+  <sequence>10</sequence>
+  <logger>util.JsonWriter</logger>
+  <level>INFO</level>
+  <class>util.JsonWriter</class>
+  <method>writeJsonReq</method>
+  <thread>1</thread>
+  <message>JSON writing finished successfully</message>
+</record>
+<record>
+  <date>2023-10-23T15:07:12.009573700Z</date>
+  <millis>1698073632009</millis>
+  <nanos>573700</nanos>
+  <sequence>11</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Application finished</message>
+</record>
+</log>
